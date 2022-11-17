@@ -5,8 +5,8 @@ An app to read a SQlite table data show on UI  using Flask
 This app will show the table on UI( browser - html page) while running it.
 
     ID	Firstname	Lastname    Username	Age	Sex	    Years
-    1	Noah	    James           Noah James	20	Male	       1
-    2	Liam	    John	    Liam John	23	Female	       3
+    1	Noah	        James       Noah James	20	Male	       1
+    2	Liam	        John	    Liam John	23	Female	       3
 
 
 ## How to run 
